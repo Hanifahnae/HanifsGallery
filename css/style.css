@@ -308,6 +308,8 @@ body {
   animation: scrollreveal linear;
   animation-timeline: view();
   animation-range: 0 40%;
+  scroll-margin-top: 100px;
+  margin-top: 40px;
 }
 
 .Padlet {
@@ -394,6 +396,7 @@ body {
     font-family: poppins;
   }
 }
+
 
 
 
