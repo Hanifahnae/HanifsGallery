@@ -300,15 +300,14 @@ body {
 
 
 /* PADLET SECTION */
+
 .Padlet .heading {
-  margin-top: 40px;
   text-align: center;
   font-size: 2.6rem;
   padding: 4rem 7% 1.4rem;
   animation: scrollreveal linear;
   animation-timeline: view();
   animation-range: 0 40%;
-  scroll-margin-top: 100px;
 }
 
 .Padlet {
@@ -316,6 +315,8 @@ body {
   animation: scrollreveal linear;
   animation-timeline: view();
   animation-range: 0 40%;
+  scroll-margin-top: 100px;
+  margin-top: 40px;
 }
 
 .padlet-wrapper {
@@ -393,6 +394,7 @@ body {
     font-family: poppins;
   }
 }
+
 
 
 
